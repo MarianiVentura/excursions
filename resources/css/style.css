@@ -1,11 +1,29 @@
-.masthead {
-  font-family: Helvetica;
-  font-size: 100px;
-  font-weight: bold;
-  color: khaki;
-  margin: auto;
-  background-image: url("./pattern.jpeg");
-  }
+
+body {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-family: Verdana;
+  font-size: 50px;
+  color: White;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  color: White;
+}
+
+h4 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.cta {
+color: aquamarine;
+font-size: 16px;
+}
 
 .subtitle {
   font-family: Helvetica;
